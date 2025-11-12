@@ -16,7 +16,7 @@ I am a Data Analyst with a deep background in market research and consumer insig
 
 *   **Languages:** SQL, Python (Pandas, NumPy)
 *   **Databases:** SQLite, Relational Databases
-*   **BI & Visualization:** Tableau, Excel, PowerPoint
+*   **BI & Visualization:** Tableau, PowerBI, Excel, PowerPoint
 *   **Market Research Tools:** Qualtrics, DisplayR
 
 ---
